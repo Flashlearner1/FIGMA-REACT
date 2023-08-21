@@ -1,0 +1,865 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin: 0px 300px 0px 0px;
+}
+
+.index .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 7054px;
+  overflow: hidden;
+  position: relative;
+  width: 1400px;
+  top: -264px;
+  left: -364px;
+}
+
+.index .Rectangle1267{
+  width: 1400px;
+  height: 798px;
+  background: #0A2640;
+}
+
+.index .ellipse-9{
+  width: 1293px;
+  height: 1293px;
+  top: -789px;
+  left: 777px;
+  background: #1c3c5b;
+  border-radius: 646.5px;
+  position: absolute;
+}
+.index .Group285{
+  width: 1200px;
+  height: 41.999996185302734px;
+  top: 56px;
+  left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 60px 0px 0px 110px;
+}
+.index .Group286{
+  width: 1200px;
+  height: 41.999996185302734px;
+  padding: 0px 8.3509521484375px 0px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.index .Navigation{
+  width: Hug (419px);
+  height: Hug (40px);
+  top: 1px;
+  left: 772.6490478515625px;
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.index .Navigation ul{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.index .Navigation .P{
+  width: 61px;
+  height: 28px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  padding: 0px 0px 0px 50px;
+}
+.index .Navigation .S{
+  width: 63px;
+  height: 28px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  padding: 0px 0px 0px 50px;
+}
+.index .Navigation .A{
+  width: 47px;
+  height: 28px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  padding: 0px 0px 0px 50px;
+}
+.index .Navigation ul a{
+  color: white;
+}
+.index .Navigation .Login-button a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 9px 0px 0px 0px;
+  width: Hug (128px);
+  height: Hug (40px);
+  padding: 8px 40px 8px 40px;
+  border-radius: 24px;
+  border: 2px;
+  gap: 8px;
+  background: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  color: #0A2640;
+}
+.index .logo{
+  width: 162.21836853027344px;
+  height: 41.999996185302734px;
+  padding: 0px 0.000003814697265625px 0px 0px;
+  display: flex;
+}
+.index .logo-shape{
+  width: 25.90987777709961px;
+  height: 33.15789031982422px;
+  top: 5.5263519287109375px;
+  padding: 0px 0px 0.00001811981201171875px 0px;
+  border-radius: 0px 12.013888359069824px 12.013888359069824px 0px;
+}
+.index .rectangle1266{
+  width: 18.024263381958008px;
+  height: 13.263155937194824px;
+  top: 5.5263519287109375px;
+  border-radius: 0px 12.013888359069824px 12.013888359069824px 0px;
+  background: #65E4A3;
+
+}
+.index .rectangle1265{
+  width: 25.90987777709961px;
+  height: 17.684206008911133px;
+  top: 21.000015258789062px;
+  border-radius: 0px 12.013888359069824px 12.013888359069824px 0px;
+  background: #65E4A3;
+  margin-top: 2px;
+}
+.index .Boldo{
+  width: 125.04331970214844px;
+  height: 41.999996185302734px;
+  left: 37.175048828125px;
+  font-family: Manrope;
+  font-size: 43px;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+.index .Frame284{
+  width: Fixed (1,200px);
+  height: Hug (423px);
+  top: 162px;
+  left: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 90px 0px 0px 0px;
+}
+.index .Frame267{
+  width: Hug (567px);
+  height: Hug (310px);
+  gap: 40px;
+  margin: 0px 0px 40px 100px;
+}
+.index .Frame287{
+  width: Hug (567px);
+  height: Hug (210px);
+  gap: 16px;
+}
+.index .save{
+  width: 567px;
+  height: 138px;
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 72px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+
+}
+.index .fund{
+  width: 567px;
+  height: 56px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F1F1F1;
+}
+
+.index .Frame288{
+  width: Hug (458px);
+  height: Fixed (60px);
+  gap: 24px;
+  display: flex;
+}
+.index .Frame288 .Buy{
+  width: Hug (247px);
+  height: Hug (60px);
+  padding: 16px 56px 16px 56px;
+  border-radius: 56px;
+  border: 2px;
+  gap: 8px;
+  background: linear-gradient(0deg, #65E4A3, #65E4A3),
+  linear-gradient(0deg, #69E6A6, #69E6A6);
+  border: 2px solid #69E6A6;
+}
+.index .Frame288 .Buy a{
+  color: #0A2640;
+}
+.index .Frame288 .Ex{
+  width: Hug (187px);
+  height: Hug (60px);
+  padding: 16px 56px 16px 56px;
+  border-radius: 56px;
+  border: 2px;
+  gap: 8px;
+  background: #0A2640;
+  border: 2px solid #FFFFFF
+  
+}
+.index .Frame288 .Ex a{
+  color: white;
+}
+.index .hero-graphics{
+  height: 423px;
+  left: 706px;
+  margin: 0px 80px 0px 0px;
+  width: 494px; 
+}
+.index .logo-wall{
+  width: 1173px;
+  height: 93px;
+  top: 641px;
+  left: 113px;
+  margin: 0px 0px 0px 110px;
+  background: linear-gradient(90deg, #0A2640 0%, rgba(10, 38, 64, 0.109375) 31.6%, rgba(10, 38, 64, 0) 72.89%, #0A2640 97.87%);
+}
+.index .rectangle1288{
+  width: 1173px;
+  height: 93px;
+  top: 641px;
+  left: 113px;
+  background: linear-gradient(90deg, #0A2640 0%, rgba(10, 38, 64, 0.109375) 31.6%, rgba(10, 38, 64, 0) 72.89%, #0A2640 97.87%);
+}
+
+.index .logos{
+  width: 1120px;
+  height: 48px;
+  top: 674px;
+  left: 140px;
+  padding: 0px 0px 10.54998779296875px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, #0A2640 0%, rgba(10, 38, 64, 0.109375) 31.6%, rgba(10, 38, 64, 0) 72.89%, #0A2640 97.87%);
+}
+.index .logo-1{
+  width: 145px;
+  height: 42px;
+  top: -4.54998779296875px;
+  left: 1210.14697265625px;
+  display: flex;
+  margin: 0px 0px 50px 50px;
+}
+.index .logo-shape1{
+  width: 23.15972328186035px;
+  height: 33.157894134521484px;
+  top: 5.526336669921875px;
+  border-radius: 0px 10.073653221130371px 10.073653221130371px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.index .rectangle1234{
+  width: 16.11111068725586px;
+  height: 13.263157844543457px;
+  top: 5.526336669921875px;
+  border-radius: 0px 10.073653221130371px 10.073653221130371px 0px;
+  background: #FFFFFF;
+}
+.index .rectangle1235{
+  width: 23.15972328186035px;
+  height: 17.6842098236084px;
+  top: 21.000030517578125px;
+  border-radius: 0px 10.073653221130371px 10.073653221130371px 0px;
+  background: #FFFFFF;
+  margin: 1.8px 0px 0px 0px;
+
+}
+.index .Text-1{
+  width: 111.77083587646484px;
+  height: 42px;
+  left: 33.22918701171875px;
+  font-family: Manrope;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  margin: 0px 0px 0px 10px;
+}
+.index .logo-2{
+  width: 146.51312255859375px;
+  height: 41.290321350097656px;
+  top: -4.473114013671875px;
+  left: 1008.6652221679688px;
+  display: flex;
+  margin: 0px 0px 50px 50px;
+}
+.index .logo-2a{
+  width: 146.44947814941406px;
+  height: 41.80213928222656px;
+  left: -0.191162109375px;
+  padding: 0px 0.000003814697265625px 0px 0px;
+  display: flex;
+}
+.index .Text-2{
+  width: 103.80866241455078px;
+  height: 41.80213928222656px;
+  left: 42.44964599609375px;
+  font-family: Work Sans;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 41px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #FFFFFF;
+  margin: 0px 0px 0px 12px;
+}
+.index .noun_pie-chart{
+  width: 32.74501037597656px;
+  height: 34.83511734008789px;
+  top: 4.153778076171875px;
+  left: -0.191162109375px;
+}
+.index .group2{
+  width: 42.44654846191406px;
+  height: 42.44654846191406px;
+  top: -2.384002685546875px;
+  left: -5.23663330078125px;
+}
+.index .ellipse40{
+  width: 31.415604352195473px;
+  height: 31.415604352195473px;
+  top: 40.06256103515625px;
+  left: 9.42596435546875px;
+  rotate: 117.82deg;
+  background: #FFFFFF;
+
+}
+.index .group40{
+  width: 31.89173126220703px;
+  height: 33.76739501953125px;
+  top: 0.552093505859375px;
+  left: 0.63531494140625px;
+}
+.index .vector40{
+  width: 31.89173126220703px;
+  height: 33.767398834228516px;
+  top: 0.552093505859375px;
+  left: 0.63531494140625px;
+  background: #FFFFFF;
+
+}
+
+.index .eclipse3{
+  margin: 0px 85px 0px 0px;
+}
+.index .presto{
+  width: 32.74501037597656px;
+  height: 34.83511734008789px;
+  top: 4.153778076171875px;
+  left: -0.191162109375px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.index .hero-graphics .rectangle1289{
+  width: 192.1751251220703px;
+  height: 165.33502197265625px;
+  top: 257.66497802734375px;
+  left: 1.0736083984375px;
+  border-radius: 15.030457496643066px;
+  background: #FFFFFF2E;
+}
+
+.index .hero-graphics .Group208{
+  width: 139.5685272216797px;
+  height: 106.28680419921875px;
+  top: 296.2411193847656px;
+  left: 25.7664794921875px;
+}
+
+.index .hero-graphics .rectangle1282{
+  width: 9.304563522338867px;
+  height: 31.99180030822754px;
+  top: 347.26934814453125px;
+  left: 156.030517578125px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+}
+
+.index .hero-graphics .rectangle1281{
+  width: 9.304563522338867px;
+  height: 70.0646743774414px;
+  top: 309.19647216796875px;
+  left: 137.42132568359375px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+
+}
+.index .hero-graphics .rectangle1280{
+  width: 9.304570198059082px;
+  height: 58.6956901550293px;
+  top: 320.56544494628906px;
+  left: 118.81207275390625px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+}
+
+.index .hero-graphics .rectangle1279{
+  width: 9.304570198059082px;
+  height: 83.02003479003906px;
+  top: 296.2411193847656px;
+  left: 100.20306396484375px;
+  border-radius: 14.132317543029785px;
+  background: #95ABBC;
+}
+
+.index .hero-graphics .rectangle1278{
+  width: 9.304570198059082px;
+  height: 43.09638214111328px;
+  top: 336.1647644042969px;
+  left: 81.59393310546875px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+
+}
+.index .hero-graphics .rectangle1277{
+  width: 9.304566383361816px;
+  height: 62.3972282409668px;
+  top: 316.8639221191406px;
+  left: 62.984710693359375px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+
+}
+.index .hero-graphics .rectangle1276{
+  width: 9.30456829071045px;
+  height: 13.484140396118164px;
+  top: 392.74530029296875px;
+  left: 44.37567138671875px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+
+}
+.index .hero-graphics .rectangle1275{
+  width: 9.30456829071045px;
+  height: 23.266765594482422px;
+  top: 402.5279235839844px;
+  left: 25.7664794921875px;
+  border-radius: 12.883249282836914px;
+  background: #0DBBFC;
+
+}
+
+.index .hero-graphics .Group263{
+  width: 47.199893951416016px;
+  height: 9.515685081481934px;
+  top: 270.8426513671875px;
+  left: 17.251220703125px;
+}
+.index .hero-graphics .Group255{
+  width: 47.199893951416016px;
+  height: 9.515685081481934px;
+  top: 270.8426513671875px;
+  left: 17.251220703125px;
+  padding: 0px 0.00000476837158203125px 0px 0px;
+}
+.index .hero-graphics .ellipse-8{
+  width: 9.43997859954834px;
+  height: 9.515685081481934px;
+  top: 270.8426513671875px;
+  left: 55.011138916015625px;
+  background: #009D10;
+
+}
+.index .hero-graphics .ellipse-7{
+  width: 9.43997859954834px;
+  height: 9.515685081481934px;
+  top: 270.8426513671875px;
+  left: 36.131256103515625px;
+  background: #ECAA00;
+
+}
+.index .hero-graphics .ellipse-6{
+  width: 9.43997859954834px;
+  height: 9.515685081481934px;
+  top: 270.8426513671875px;
+  left: 17.251220703125px;
+  background: #FC5B00;
+}
+
+.index .hero-graphics .Group256{
+  width: 493.8578796386719px;
+  height: 231.8984832763672px;
+  border-radius: 15.030457496643066px;
+}
+.index .hero-graphics .Frame219{
+  width: 493.8578796386719px;
+  height: 231.8984832763672px;
+  border-radius: 15.030457496643066px;
+  background: #FFFFFF2E;
+  display: block;
+
+}
+.index .hero-graphics .Group255{
+  width: 47.107723236083984px;
+  height: 9.421545028686523px;
+  top: 14.132316589355469px;
+  left: 14.13232421875px;
+  padding: 0px 0.0000209808349609375px 0px 0px;
+}
+.index .hero-graphics .ellipse-18{
+  width: 9.421545028686523px;
+  height: 9.421545028686523px;
+  top: 14.132316589355469px;
+  left: 51.8184814453125px;
+  background: #009D10;
+
+}
+.index .hero-graphics .ellipse-17{
+  width: 9.421545028686523px;
+  height: 9.421545028686523px;
+  top: 14.132316589355469px;
+  left: 32.975372314453125px;
+  background: #ECAA00;
+
+}
+.index .hero-graphics .ellipse-16{
+  width: 9.421545028686523px;
+  height: 9.421545028686523px;
+  top: 14.132316589355469px;
+  left: 14.13232421875px;
+  background: #FC5B00;
+}
+.index .hero-graphics .Graphs{
+  width: 434px;
+  height: 140px;
+  top: 64px;
+  left: 28px;
+  padding: 0px 10.840972900390625px 0px 0.6063232421875px;
+
+}
+.index .hero-graphics .Bars-container{
+  width: Fixed (422.55px);
+  height: Hug (136.48px);
+  top: -0.06278228759765625px;
+  left: 0.6063232421875px;
+  gap: 19.071491241455078px;
+}
+
+.index .hero-graphics .Bar-1{
+  width: Fixed (523.87px);
+  height: Hug (20.26px);
+  gap: 14.303618431091309px;
+}
+.index .hero-graphics .rectangle-1278{
+  width: 11.776936531066896px;
+  height: 54.17388534545924px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #95ABBC;
+}
+.index .hero-graphics .rectangle-1277{
+  width: 11.919699668884283px;
+  height: 269.9807739257819px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #8FB6D5;
+}
+.index .hero-graphics .Text-1{
+  width: 27.415267944335938px;
+  height: 20.263458251953125px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #FFFFFF;
+}
+
+.index .hero-graphics .Bar-2{
+  width: Fixed (225.28px);
+  height: Hug (19.67px);
+  gap: 14.303618431091309px;
+}
+.index .hero-graphics .rectangle-1279{
+  width: 11.323703765869146px;
+  height: 79.86186981201189px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+}
+.index .hero-graphics .Text-2{
+  width: 27.415267944335938px;
+  height: 19.667476654052734px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #FFFFFF;
+}
+
+.index .hero-graphics .Bar-3{
+  width: Fixed (607.9px);
+  height: Hug (19.67px);
+  gap: 14.303618431091309px;
+
+}
+.index .hero-graphics .rectangle-1289{
+  width: 11.919704437255861px;
+  height: 317.6595458984383px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #FFFFFF;
+
+}
+.index .hero-graphics .Text-3{
+  width: 33.3751106262207px;
+  height: 19.667476654052734px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #FFFFFF;
+}
+
+.index .hero-graphics .Bar-4{
+  width: Fixed (513.74px);
+  height: Hug (19.67px);
+  gap: 14.303618431091309px;
+}
+.index .hero-graphics .rectangle-1280{
+  width: 11.323714256286626px;
+  height: 253.88922119140682px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #65E4A3;
+}
+.index .hero-graphics .Text-4 {
+  width: 39.93093490600586px;
+  height: 19.667476654052734px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #FFFFFF;
+}
+
+.index .hero-graphics .Group264{
+  width: 261.9593811035156px;
+  height: 165.33502197265625px;
+  top: 257.66497802734375px;
+  left: 231.8984375px;
+  border-radius: 14.132317543029785px;
+}
+.index .hero-graphics .Group263{
+  width: 48px;
+  height: 10px;
+  top: 270px;
+  left: 248px;
+}
+.index .hero-graphics .Group255{
+  width: 48px;
+  height: 10px;
+  top: 270px;
+  left: 248px;
+  padding: 0px 0.00009059906005859375px 0px 0px;
+}
+.index .hero-graphics .ellipse-18{
+  width: 9.59999942779541px;
+  height: 10px;
+  top: 270px;
+  left: 286.39990234375px;
+  background: #009D10;
+}
+.index .hero-graphics .ellipse-17{
+  width: 9.59999942779541px;
+  height: 10px;
+  top: 270px;
+  left: 267.2000732421875px;
+  background: #ECAA00;
+}
+.index .hero-graphics .ellipse-16{
+  width: 9.59999942779541px;
+  height: 10px;
+  top: 270px;
+  left: 248px;
+  background: #FC5B00;
+}
+
+.index .hero-graphics .Frame262{
+  width: Fixed (261.96px);
+  height: Fixed (165.34px);
+  top: 257.66497802734375px;
+  left: 231.8984375px;
+  padding: 47.10772705078125px 28.26463508605957px 23.553863525390625px 28.26463508605957px;
+  border-radius: 14.132317543029785px;
+  gap: 11.776931762695312px;
+  background: #FFFFFF33;
+}
+.index .hero-graphics .Group261{
+  width: 201.7353515625px;
+  height: 93.03775024414062px;
+}
+.index .hero-graphics .Graphic-content{
+  width: 93.03775024414062px;
+  height: 93.03775024414062px;
+  top: 47.10772705078125px;
+  left: 28.2646484375px;
+}
+.index .hero-graphics .Pie-Graph{
+  width: 93.03775024414062px;
+  height: 93.03775024414062px;
+  top: 47.10772705078125px;
+  left: 28.2646484375px;
+}
+.index .hero-graphics .percentage1{
+  width: 73.13004406808166px;
+  height: 120.47918400695534px;
+  top: 14.847015380859375px;
+  left: 139.3309326171875px;
+  angle: -120.73 deg;
+}
+.index .hero-graphics .ellipse-2{
+  width: 93.09918180688726px;
+  height: 93.08731677558741px;
+  top: 30.357269287109375px;
+  left: 110.28741455078125px;
+  border: 13.392823219299316px;
+  angle: -120.73 deg;
+  background: #69E6A6;
+  border: 13.39px solid #69E6A6;
+}
+.index .hero-graphics .vector1{
+  width: 73.1166087195953px;
+  height: 120.47107181086632px;
+  top: 14.854354858398438px;
+  left: 139.31719970703125px;
+  angle: -120.73 deg;
+  background: #C4C4C4;
+
+}
+.index .hero-graphics .percentage2{
+  width: 73.03963470458984px;
+  height: 120.627197265625px;
+  top: -16.931976318359375px;
+  left: -27.9398193359375px;
+}
+.index .hero-graphics .ellipse-21{
+  width: 92.98951721191406px;
+  height: 93.19688415527344px;
+  top: -0.0771331787109375px;
+  left: 0.089111328125px;
+  border: 13.392823219299316px;
+  background: #0DBBFC;
+  border: 13.39px solid #0DBBFC;
+}
+.index .hero-graphics .vector1{
+  width: 73.03963470458984px;
+  height: 120.627197265625px;
+  top: -16.931976318359375px;
+  left: -27.9398193359375px;
+  background: #C4C4C4;
+}
+.index .hero-graphics .percentage3{
+  width: 92.98951721191406px;
+  height: 93.19688415527344px;
+  top: -0.0765228271484375px;
+  left: 0.08819580078125px;
+  border: 13.392823219299316px;
+  background: #0A2640;
+  border: 13.39px solid #0A2640;
+}
+
+.index .hero-graphics .Group270{
+  width: 76px;
+  height: 52px;
+  top: 68px;
+  left: 154px;
+}
+.index .hero-graphics .Frame259{
+  width: Hug (76px);
+  height: Fixed (52px);
+  top: 68px;
+  left: 154px;
+  gap: 14.132317543029785px;
+}
+.index .hero-graphics .rectangle1278{
+  width: 8.000008583068848px;
+  height: 72.0000000000005px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #95ABBC;
+
+}
+.index .hero-graphics .rectangle1279{
+  width: 8.000007629394531px;
+  height: 68.00000000000047px;
+  border-radius: 14.132317543029785px;
+  angle: -90 deg;
+  background: #95ABBC;
+}
+.index .hero-graphics .rectangle1280{
+  width: 8.000008583068848px;
+  height: 76.00000000000053px;
+  border-radius: 14.132317543029785px;
+  rota: -90 deg;
+  background: #95ABBC;
+}
+*/
